@@ -1,0 +1,27 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/alistairmbp/projects/MA/week4/bookmark_manager/spec/features/bookmark_list_spec.rb": [
+        1,
+        1,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null
+      ],
+      "/Users/alistairmbp/projects/MA/week4/bookmark_manager/spec/link_spec.rb": [
+        1
+      ],
+      "/Users/alistairmbp/projects/MA/week4/bookmark_manager/lib/link.rb": [
+        1,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1498491499
+  }
+}
