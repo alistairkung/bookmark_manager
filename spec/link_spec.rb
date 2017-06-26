@@ -1,1 +1,1 @@
-require 'link'
+require './models/link'
